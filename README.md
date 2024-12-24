@@ -1,5 +1,5 @@
 ## Machine_Learning_Basic </br>
-
+** Notion으로 이동 **</br>
 ### 목록
 **Basic_Package** : Numpy, Pandas </br> 
 **Before_After_Training** : 전반적인 모델 설계 순서 </br>
